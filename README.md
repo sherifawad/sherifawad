@@ -1,5 +1,5 @@
 # Hi, I'm Sherif Awad 👋
-### Software Engineer | Frontend Specialist | .NET Backend Developer
+### Senior Full Stack Engineer | TypeScript, Next.js, Node.js | .NET Backend Developer
 **Tanta, Egypt | Remote & International Opportunities**
 
 I am a results-driven Software Engineer with a focus on building scalable, high-performance web applications. My expertise lies in modern **React/Next.js** architectures and robust **.NET/OData** backend systems, with a strong emphasis on type safety and infrastructure simplification.
